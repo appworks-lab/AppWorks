@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.0.6
+
+- added translations for German
+
 ## 1.0.5
 
 - feat: add ru-RU locale
